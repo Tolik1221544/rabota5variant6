@@ -1,0 +1,18 @@
+c:\users\home\documents\visual studio 2010\Projects\ziplib\ziplib\bin\Debug\ziplib.exe
+c:\users\home\documents\visual studio 2010\Projects\ziplib\ziplib\bin\Debug\ziplib.pdb
+c:\users\home\documents\visual studio 2010\Projects\ziplib\ziplib\obj\x86\Debug\ziplib.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2010\Projects\ziplib\ziplib\obj\x86\Debug\ziplib.Form1.resources
+c:\users\home\documents\visual studio 2010\Projects\ziplib\ziplib\obj\x86\Debug\ziplib.Properties.Resources.resources
+c:\users\home\documents\visual studio 2010\Projects\ziplib\ziplib\obj\x86\Debug\ziplib.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2010\Projects\ziplib\ziplib\obj\x86\Debug\ziplib.exe
+c:\users\home\documents\visual studio 2010\Projects\ziplib\ziplib\obj\x86\Debug\ziplib.pdb
+C:\Users\Tolik-2003\Downloads\ziplib\ziplib\obj\x86\Debug\ziplib.exe
+C:\Users\Tolik-2003\Downloads\ziplib\ziplib\obj\x86\Debug\ziplib.pdb
+C:\Users\Tolik-2003\Downloads\ziplib\ziplib\bin\Debug\ziplib.exe
+C:\Users\Tolik-2003\Downloads\ziplib\ziplib\bin\Debug\ziplib.pdb
+C:\Users\Tolik-2003\Downloads\ziplib\ziplib\obj\x86\Debug\ziplib.csprojResolveAssemblyReference.cache
+C:\Users\Tolik-2003\Downloads\ziplib\ziplib\obj\x86\Debug\ziplib.Form1.resources
+C:\Users\Tolik-2003\Downloads\ziplib\ziplib\obj\x86\Debug\ziplib.Properties.Resources.resources
+C:\Users\Tolik-2003\Downloads\ziplib\ziplib\obj\x86\Debug\ziplib.csproj.GenerateResource.Cache
+C:\Users\Tolik-2003\Downloads\Работа 5. Вариант 6\ziplib\obj\x86\Debug\ziplib.exe
+C:\Users\Tolik-2003\Downloads\Работа 5. Вариант 6\ziplib\obj\x86\Debug\ziplib.pdb
